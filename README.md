@@ -55,14 +55,16 @@ This project was built as part of the Inventors' Next-Gen Builders skill assessm
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/country-explorer.git
+```
 
 ---
 
-## Navigate to the project folder:
+## 2.Navigate to the project folder:
 
 ```bash
 cd country-explorer
-3. Open the project in your browser:
+```
+## 3. Open the project in your browser:
 
 - Double-click `index.html`, or  
 - Use a live server extension if you're using VS Code.
