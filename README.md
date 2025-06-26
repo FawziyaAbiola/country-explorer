@@ -58,9 +58,27 @@ git clone https://github.com/your-username/country-explorer.git
 
 ---
 
-##  **Navigate to the project folder:**
+## Navigate to the project folder:
 
 ```bash
-Copy
-Edit
 cd country-explorer
+3. Open the project in your browser:
+
+- Double-click `index.html`, or  
+- Use a live server extension if you're using VS Code.
+
+---
+
+## 🙋🏽‍♀️ About the Developer
+
+This project was built by **Fawziya Abiola** as part of a frontend skill assessment and learning experience.
+
+I’m currently exploring frontend development and preparing to dive into **DevOps** soon 🚀
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+
