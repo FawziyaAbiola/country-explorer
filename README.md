@@ -36,7 +36,7 @@ This project was built as part of the Inventors' Next-Gen Builders skill assessm
 
 ## 🚀 Live Demo
 
-🔗 **[Live Demo](https://your-username.github.io/country-explorer/)**  
+🔗 **[Live Demo]( https://fawziyaabiola.github.io/country-explorer/)**  
 *(Update with your real link if hosted on GitHub Pages, Netlify, or Vercel)*
 
 ---
