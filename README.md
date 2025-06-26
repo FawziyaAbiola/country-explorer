@@ -55,9 +55,12 @@ This project was built as part of the Inventors' Next-Gen Builders skill assessm
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/country-explorer.git
-## Navigate to the project folder:
 
-bash
+---
+
+##  **Navigate to the project folder:**
+
+```bash
 Copy
 Edit
 cd country-explorer
